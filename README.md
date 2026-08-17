@@ -40,6 +40,8 @@
 
 > [!NOTE]
 > **As of August 2026, AIPointer's source code is no longer published.** This repository hosts documentation and official binary releases only. The license remains Business Source License 1.1; all prior obligations for previously published source continue to apply. For commercial licensing, contact dev@mariosimic.at.
+>
+> ⭐ **295 stars before the source withdrawal** — [archived proof (June 2026)](https://web.archive.org/web/20260601001501/https://github.com/gonemedia/aipointer).
 
 ## What it is
 
