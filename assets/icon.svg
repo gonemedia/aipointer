@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="AIPointer">
+  <title>AIPointer</title>
+  <defs>
+    <radialGradient id="ap-halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a7f56b" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#a7f56b" stop-opacity="0.12"/>
+      <stop offset="80%" stop-color="#a7f56b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ap-body" cx="35%" cy="32%" r="78%">
+      <stop offset="0%" stop-color="#2c2c31"/>
+      <stop offset="100%" stop-color="#0c0c0d"/>
+    </radialGradient>
+    <radialGradient id="ap-dot" cx="42%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#d6ffa8"/>
+      <stop offset="45%" stop-color="#a7f56b"/>
+      <stop offset="100%" stop-color="#6cc134"/>
+    </radialGradient>
+    <radialGradient id="ap-dot-shine" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="512" cy="512" r="510" fill="url(#ap-halo)"/>
+  <circle cx="512" cy="512" r="384" fill="url(#ap-body)"/>
+  <circle cx="512" cy="512" r="384" fill="none" stroke="#3a3a42" stroke-width="2.5" opacity="0.9"/>
+  <circle cx="512" cy="512" r="156" fill="url(#ap-dot)"/>
+  <ellipse cx="478" cy="468" rx="78" ry="60" fill="url(#ap-dot-shine)"/>
+</svg>

@@ -1,0 +1,27 @@
+Business Source License 1.1
+
+License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+"Business Source License" is a trademark of MariaDB Corporation Ab.
+
+-----------------------------------------------------------------------------
+IN PLAIN TERMS:
+  Free for personal use, learning, and non-commercial experimentation.
+  You may NOT host it as a SaaS, sell it, or build a competing product
+  without written permission from the author (Mario Simic).
+-----------------------------------------------------------------------------
+
+Licensor: Mario Simic
+Licensed Work: AIPointer
+Licensed Work Copyright Notice: © 2026 Mario Simic. All rights reserved.
+Contact: dev@mariosimic.at
+
+Additional Use Grant:
+Free for personal, educational, and non-commercial use. Internal business use is permitted free of charge. You may copy, modify, create derivative works, and redistribute the Licensed Work for non-production and non-commercial internal testing or personal use. Commercial redistribution, SaaS hosting, white-labeling, bundling AIPointer into a commercial product distributed to third parties, and resale require a written commercial license from the Licensor.
+
+Terms:
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensed Work is provided "AS IS", without warranties or conditions of any kind.
+
+Change Date: 2030-05-19
+
+Change License: Apache License, Version 2.0
+ 
