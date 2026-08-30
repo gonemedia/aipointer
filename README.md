@@ -98,14 +98,7 @@ It works as an alternative to switching to ChatGPT, Claude, or Gemini in a brows
 
 ## Install
 
-Download a signed build for your OS at [aipointer.app](https://aipointer.app), or build from source:
-
-```bash
-git clone https://github.com/gonemedia/aipointer
-cd aipointer
-npm install
-npm run dev
-```
+Download a signed build for your OS at [aipointer.app](https://aipointer.app), or from the [latest release](https://github.com/gonemedia/aipointer/releases/latest/) here. Builds are signed for macOS (Apple Silicon and Intel), Windows and Linux. Since August 2026 the source is no longer published, so there is no build-from-source path.
 
 On first launch you'll be prompted to grant **Accessibility** (for the global key listener) and **Screen Recording** (for the cursor-region screenshot). Both are required on macOS. The Settings panel opens automatically the first time so you can paste an API key. Get one at:
 
